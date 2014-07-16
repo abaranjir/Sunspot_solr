@@ -7,6 +7,6 @@ gem 'sunspot_rails'
 gem 'progress_bar'
 gem 'capistrano'
 gem 'capistrano-ext'
-  group :development do
+  #group :development do
     gem 'sunspot_solr'
-  end
+  #end
